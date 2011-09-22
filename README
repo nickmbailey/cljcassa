@@ -1,0 +1,12 @@
+# cljcassa
+
+A simple (so far) clojure client for cassandra.
+
+## Usage
+
+FIXME: write
+
+## License
+
+Apache 2.0 License
+
